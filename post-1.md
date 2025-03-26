@@ -1,7 +1,7 @@
 <html>
 <body> 
 # Creating with Astro
-<a href="/blog/">Back to Blog</a>
+<a href="/blog/">Back to Blog</a><br>
 Published on: 03/25/2025
 
 Part of the first steps of migrating from using Git Pages to Netlify, I've followed the step-by-step tutorial provided for the Astro WebDev tool. It has been very user friendly, and especially helpful to see the changes I make happen in real-time thanks to their developer server you launch yourself via the terminal. 
